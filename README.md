@@ -1,6 +1,6 @@
 <img src="images/rfm.jpg"/>
 
-# RFM segmentasyonu için uygulama kodudur. Teorik anlatımına [**Medium Yazısı**]() buradan ulaşabilirsiniz.
+# RFM segmentasyonu için uygulama kodudur. Daha fazla bilgi ve teorik anlatımına [**Medium Yazısı**]() tıklayarak ulaşabilirsiniz.
 
 # Repository Hakkında
 
